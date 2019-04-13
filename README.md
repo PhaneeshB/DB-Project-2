@@ -1,5 +1,5 @@
 # DB-Project-2
 
-# Binary Search 
-# Insertion Sort
-# External Merge Sort
+Binary Search <br>
+Insertion Sort <br>
+External Merge Sort <br>
